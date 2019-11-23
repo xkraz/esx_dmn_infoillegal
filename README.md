@@ -4,4 +4,6 @@ Mettez le dossier dans vos resources, lancez le, amusez vous
 
 Le script est un vendeur de points concernant la weed
 
-Vous pouvez changer les emplacement dans le config
+Vous pouvez changer les prix et les points sur le GPS dans le config
+
+Pour le blip c'est dans le client
