@@ -1,3 +1,5 @@
+Il est strictmement interdit de changer le nom du script !!!
+
 Un script en NativeUI fait par DMN
 
 Mettez le dossier dans vos resources, lancez le, amusez vous
